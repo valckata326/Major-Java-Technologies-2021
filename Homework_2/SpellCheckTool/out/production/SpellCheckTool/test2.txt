@@ -1,0 +1,7 @@
+Helllo, my name is Dog.
+And, he reallly is a dog.
+= = = Metadata = = =
+39 characters, 5 words, 2 spelling issue(s) found
+= = = Findings = = =
+Line #1, {helllo} - Possible suggestions are {hello, hell, phello}
+Line #2, {reallly} - Possible suggestions are {preally, ally, meally}
