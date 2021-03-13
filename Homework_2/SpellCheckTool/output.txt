@@ -1,6 +1,0 @@
-hello, i am a dog!
-= = = Metadata = = =
-14 characters, 3 words, 2 spelling issue(s) found
-= = = Findings = = =
-Line #1, {i} - Possible suggestions are {}
-Line #1, {hello} - Possible suggestions are {}
